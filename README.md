@@ -20,4 +20,4 @@ Objective of this task is to generate [queries](https://github.com/Mridul1129261
 
 
 
-__I would like to thank **[HiCounselor](https://hicounselor.com/projects/analysing-employee-performance-for-hr-analytics-using-python-and-mygql)** for arranging this real-world data-set and a sandbox to work online.__
+__I would like to thank **[HiCounselor](https://hicounselor.com/certificate/verify/MTkwMzQxMzk=)** for arranging this real-world data-set and a sandbox to work online.__
